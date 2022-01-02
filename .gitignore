@@ -1,0 +1,7 @@
+﻿.idea
+.vscode
+Library
+Logs
+node_modules
+ProjectSettings
+UserSettings
